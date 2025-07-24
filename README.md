@@ -50,4 +50,4 @@ All data is logged via UART to the Serial Monitor.
 ---
 
 ### Simulation
-[Add your Wokwi simulation link here]
+https://wokwi.com/projects/437187864243347457
